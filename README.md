@@ -75,3 +75,17 @@ Key Attributes:
 - Provided data-backed recommendations to improve inventory turnover and revenue growth
 
 - Demonstrated end-to-end data analytics workflow from raw data to business insights
+
+ ## Internship Context
+
+- Role: Data Analytics Intern
+
+- Organization: iStudio
+
+- Duration: October 2025 – December 2025
+
+## Author
+
+**Sagar Hiware**
+
+**Data Analytics Intern**
